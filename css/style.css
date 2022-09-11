@@ -1,0 +1,24 @@
+#header{
+    background-color: rgb(63, 61, 61);
+    color: #fff;
+}
+body{
+    font-size: 18px;
+}
+footer{
+    color: #fff;
+    background-color: rgb(63, 61, 61);
+}
+footer a{
+    color: #fff;
+}
+footer p{
+color: blueviolet;
+}
+b{
+    color: green;
+    font-style: italic;
+}
+p>a{
+    color: red;
+}
